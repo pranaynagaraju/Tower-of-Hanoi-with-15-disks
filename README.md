@@ -1,1 +1,1 @@
-# Tower-of-Hanoi-with-15-disks
+# Tower-of-Hanoi-with-3-disks(A*)
